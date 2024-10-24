@@ -1,4 +1,5 @@
 import './App.css'
+import resume from './assets/resume.pdf'
 
 const App = () => {
   // const [count, setCount] = useState(0)
@@ -9,7 +10,7 @@ const App = () => {
         <a href="https://github.com/elchukc" target="_blank">
           Github
         </a>
-        <a href="src/assets/resume.pdf" target="_blank">
+        <a href={resume} target="_blank">
           Resume
         </a>
 
