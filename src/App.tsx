@@ -16,6 +16,7 @@ const App = () => {
 
       </nav>
       <h1>This site is currently under construction</h1>
+      <p>Fun fact, this site was made with those with <a href="https://alistapart.com/article/designing-safer-web-animation-for-motion-sensitivity/">motion sensitivity</a> in mind </p>
       {/* <div className="card">
         <button onClick={() => setCount((count) => count + 1)}>
           count is {count}
